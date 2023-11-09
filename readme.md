@@ -1,0 +1,1 @@
+In this repository, I will be uploading homework assignments from the "Mathematics for Computer Science" module of my master's degree course.
